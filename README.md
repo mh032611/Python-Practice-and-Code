@@ -1,2 +1,2 @@
-# Python-Practice-and-Code
- Python Practice and Coding Challenges
+# Python-Practice-and-Coding Challeges 
+A collection of Python Practice exercises and Coding Challenges
